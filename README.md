@@ -38,6 +38,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <br>
+  <img src="https://img.shields.io/badge/Photoshop-18152E?style=flat-square&logo=photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/illustrator-f8a829?style=flat-square&logo=illustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 
   #### 📚 Learning

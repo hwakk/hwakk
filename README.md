@@ -6,9 +6,9 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
   <div align="left">
-    <sub><strong>🏢 마인드스위치앤코웨이브 | 주니어・풀스택 개발자</strong></sub> <sub>(2023.02 ~ 2024.04)</sub>
+    <sub><strong>🏢 마인드스위치앤코웨이브 | 프론트엔드 개발자</strong></sub> <sub>(2023.02 ~ 2024.04)</sub>
     <br>
-    <sub><strong>🏢 오르빗코드 | 주니어・풀스택 개발자</strong></sub> <sub>(2024.05 ~ ing)</sub>
+    <sub><strong>🏢 오르빗코드 | 프론트엔드 개발자</strong></sub> <sub>(2024.05 ~ ing)</sub>
     <br>
     <br>
   </div>

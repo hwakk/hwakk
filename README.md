@@ -2,7 +2,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=hwakk&hide=prs&show_icons=true&theme=dracula" />
   
   #### 🐰 hwakyung's GITHUB 🐰
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:napia1014@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
   <div align="left">

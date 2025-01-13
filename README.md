@@ -5,6 +5,11 @@
 
 #### 📖 Learning
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwakk&hide=prs&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwakk&layout=compact&theme=dracula)
+
 <!--
 **hwakk/hwakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

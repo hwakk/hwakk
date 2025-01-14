@@ -35,6 +35,8 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Photoshop-18152E?style=flat-square&logo=photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/illustrator-f8a829?style=flat-square&logo=illustrator&logoColor=white"/>

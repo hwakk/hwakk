@@ -3,7 +3,7 @@
   
   #### 🐰 hwakyung's GITHUB 🐰
   <a href="mailto:napia1014@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+  <a href="https://hwakk.notion.site/Portfolio-17b9b87375c3804ea160f21b4be82279?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
   <div align="left">
     <sub><strong>🏢 마인드스위치앤코웨이브 | 프론트엔드 개발자</strong></sub> <sub>(2023.02 ~ 2024.04)</sub>

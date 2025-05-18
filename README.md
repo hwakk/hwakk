@@ -1,25 +1,29 @@
 <div align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=hwakk&hide=prs&show_icons=true&theme=dracula" />
+  <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=hwakk&hide=prs&show_icons=true&theme=dracula" /> -->
   
   #### 🐰 hwakyung's GITHUB 🐰
   <a href="mailto:napia1014@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://hwakk.notion.site/Portfolio-17b9b87375c3804ea160f21b4be82279?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
-  <div align="left">
+  <sub><strong>🏢 마인드스위치앤코웨이브 | 프론트엔드 개발자</strong></sub> <sub>(2023.02 ~ 2024.04)</sub>
+  <br>
+  <sub><strong>🏢 오르빗코드 | 프론트엔드 개발자</strong></sub> <sub>(2024.05 ~ ing)</sub>
+
+  <!-- <div align="left">
     <sub><strong>🏢 마인드스위치앤코웨이브 | 프론트엔드 개발자</strong></sub> <sub>(2023.02 ~ 2024.04)</sub>
     <br>
     <sub><strong>🏢 오르빗코드 | 프론트엔드 개발자</strong></sub> <sub>(2024.05 ~ ing)</sub>
     <br>
     <br>
   </div>
-  <br>
+  <br> -->
 </div>
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwakk&layout=compact&theme=dracula" />
 
 <div align="center">
+  <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwakk&layout=compact&theme=dracula" /> -->
 
   #### 🛠️ Tech-Stack
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
